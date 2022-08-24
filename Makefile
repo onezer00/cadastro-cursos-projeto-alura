@@ -8,7 +8,7 @@ format:
 lint:
 	@blue .
 	@isort .
-	@prospector
+	@prospector -X
 test:
 	@pytest -v
 sec:
