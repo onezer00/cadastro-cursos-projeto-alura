@@ -8,5 +8,6 @@ class EscolaConfig(AppConfig):
     """
     Configuração inicial do aplicativo escola
     """
+
     default_auto_field = 'django.db.models.BigAutoField'
     name = 'escola'

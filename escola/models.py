@@ -8,6 +8,7 @@ class Aluno(models.Model):
     """
     Criação de modelos para o Aluno
     """
+
     nome = models.CharField(max_length=100)
     rg = models.CharField(max_length=9)
     cpf = models.CharField(max_length=11)
@@ -21,6 +22,7 @@ class Curso(models.Model):
     """
     Criação de modelos para o Curso
     """
+
     NIVEL = (
         ('B', 'Básico'),
         ('I', 'Intermediário'),
@@ -40,6 +42,7 @@ class Matricula(models.Model):
     """
     Criação de modelos para a Matricula
     """
+
     PERIODO = (
         ('M', 'Manhã'),
         ('T', 'Tarde'),

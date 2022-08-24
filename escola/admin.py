@@ -10,6 +10,7 @@ class Alunos(admin.ModelAdmin):
     """
     Classe responsável por administrar alunos
     """
+
     list_display = ('id', 'nome', 'rg', 'cpf', 'data_nascimento')
     list_display_links = ('id', 'nome')
     search_fields = ('nome',)
@@ -23,6 +24,7 @@ class Cursos(admin.ModelAdmin):
     """
     Classe responsável por administrar cursos
     """
+
     list_display = ('id', 'codigo', 'descricao')
     list_display_links = ('id', 'codigo')
     search_fields = ('codigo',)
@@ -36,6 +38,7 @@ class Matriculas(admin.ModelAdmin):
     """
     Classe responsável por administrar matriculas
     """
+
     list_display = ('id', 'aluno', 'curso', 'periodo')
     list_display_links = ('id',)
 
