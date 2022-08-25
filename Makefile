@@ -11,7 +11,7 @@ format:
 lint:
 	@blue .
 	@isort .
-	@prospector -X
+	@prospector
 test:
 	@pytest -v
 sec:
