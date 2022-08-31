@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/github/issues/onezer00/cadastro-cursos-projeto-alura?style=plastic" />
 <img src="https://img.shields.io/github/forks/onezer00/cadastro-cursos-projeto-alura?style=plastic" />
 <img src="https://img.shields.io/github/stars/onezer00/cadastro-cursos-projeto-alura?style=plastic" />
-<img src="https://img.shields.io/github/license/onezer00/cadastro-cursos-projeto-alura" />
+<img src="https://img.shields.io/github/license/onezer00/cadastro-cursos-projeto-alura?logo=GNU&style=plastic" />
 </p>
 Esse projeto foi desenvolvido com o intuíto de a partir do curso de programação online de Python do [Alura](https://www.alura.com.br), disponibilizar uma API pública que a comunidade possa utilizar.
 
