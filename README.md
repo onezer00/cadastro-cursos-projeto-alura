@@ -9,7 +9,7 @@
 ---
 <p align="center">
 <img src="https://img.shields.io/github/issues/onezer00/cadastro-cursos-projeto-alura?style=plastic" />
-<img src="https://img.shields.io/github/forks/onezer00/cadastro-cursos-projeto-alura?style=plastic />
+<img src="https://img.shields.io/github/forks/onezer00/cadastro-cursos-projeto-alura?style=plastic" />
 <img src="https://img.shields.io/github/stars/onezer00/cadastro-cursos-projeto-alura?style=plastic" />
 <img src="https://img.shields.io/github/license/onezer00/cadastro-cursos-projeto-alura" />
 </p>
