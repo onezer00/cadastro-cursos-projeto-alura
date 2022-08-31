@@ -32,3 +32,6 @@ A documentação completa da API está disponível [aqui](https://cadastro-curso
 - ``/api/aluno/{id}``: Retorna um aluno específico.
 - ``/api/aluno/{id}/matriculas``: Retorna todas as inscrições de um aluno.
 - ``/api/matriculas``: Lista todas as matriculas cadastradas.
+
+---
+[Meu perfil](https://github.com/onezer00)
